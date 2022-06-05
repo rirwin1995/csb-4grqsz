@@ -4,14 +4,14 @@
     "main.js.map": "https://rirwin1995.github.io/csb-4grqsz/static/js/main.451549b3.chunk.js.map",
     "runtime-main.js": "https://rirwin1995.github.io/csb-4grqsz/static/js/runtime-main.9ec39a4d.js",
     "runtime-main.js.map": "https://rirwin1995.github.io/csb-4grqsz/static/js/runtime-main.9ec39a4d.js.map",
-    "static/js/2.4610a7ec.chunk.js": "https://rirwin1995.github.io/csb-4grqsz/static/js/2.4610a7ec.chunk.js",
-    "static/js/2.4610a7ec.chunk.js.map": "https://rirwin1995.github.io/csb-4grqsz/static/js/2.4610a7ec.chunk.js.map",
+    "static/js/2.fca11325.chunk.js": "https://rirwin1995.github.io/csb-4grqsz/static/js/2.fca11325.chunk.js",
+    "static/js/2.fca11325.chunk.js.map": "https://rirwin1995.github.io/csb-4grqsz/static/js/2.fca11325.chunk.js.map",
     "index.html": "https://rirwin1995.github.io/csb-4grqsz/index.html",
-    "static/js/2.4610a7ec.chunk.js.LICENSE.txt": "https://rirwin1995.github.io/csb-4grqsz/static/js/2.4610a7ec.chunk.js.LICENSE.txt"
+    "static/js/2.fca11325.chunk.js.LICENSE.txt": "https://rirwin1995.github.io/csb-4grqsz/static/js/2.fca11325.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9ec39a4d.js",
-    "static/js/2.4610a7ec.chunk.js",
+    "static/js/2.fca11325.chunk.js",
     "static/js/main.451549b3.chunk.js"
   ]
 }
